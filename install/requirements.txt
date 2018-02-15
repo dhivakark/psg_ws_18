@@ -5,4 +5,6 @@ Keras==2.0.6
 numpy==1.13.1
 matplotlib==2.0.2
 scikit-image==0.13.0
+sklearn
 scipy==0.19.1
+pandas
